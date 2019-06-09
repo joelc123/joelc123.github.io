@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Joels Work",
     "description": "",
-    "home_page_url": "https://joelc123.github.io/joelc123.github.io",
-    "feed_url": "https://joelc123.github.io/joelc123.github.io/feed.json",
+    "home_page_url": "https://joelc123.github.io",
+    "feed_url": "https://joelc123.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Joel Cockram"
     },
     "items": [
         {
-            "id": "https://joelc123.github.io/joelc123.github.io/we-doin-this-now.html",
-            "url": "https://joelc123.github.io/joelc123.github.io/we-doin-this-now.html",
+            "id": "https://joelc123.github.io/we-doin-this-now.html",
+            "url": "https://joelc123.github.io/we-doin-this-now.html",
             "title": "We doin this now?",
             "summary": "Looks like we in there now Site is live",
             "content_html": "<p id=\"mcetoc_1dcuctgjo0\" class=\"msg--highlight\">Looks like we in there now<br><br>Site is live</p>",
-            "image": "https://joelc123.github.io/joelc123.github.io/media/posts/2/_65050398_medfr18819.jpg",
+            "image": "https://joelc123.github.io/media/posts/2/_65050398_medfr18819.jpg",
             "author": {
                 "name": "Joel Cockram"
             },
@@ -25,12 +25,12 @@
             "date_modified": "2019-06-09T16:26:57+01:00"
         },
         {
-            "id": "https://joelc123.github.io/joelc123.github.io/test-post-1.html",
-            "url": "https://joelc123.github.io/joelc123.github.io/test-post-1.html",
+            "id": "https://joelc123.github.io/test-post-1.html",
+            "url": "https://joelc123.github.io/test-post-1.html",
             "title": "Test Post #1",
             "summary": "This is a test post yo!",
             "content_html": "This is a test <strong>post</strong> yo!",
-            "image": "https://joelc123.github.io/joelc123.github.io/media/posts/1/sprint3.png",
+            "image": "https://joelc123.github.io/media/posts/1/sprint3.png",
             "author": {
                 "name": "Joel Cockram"
             },
