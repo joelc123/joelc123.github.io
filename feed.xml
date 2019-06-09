@@ -3,12 +3,34 @@
     <title>Joels Work</title>
     <link href="https://joelc123.github.io/joelc123.github.io/feed.xml" rel="self" />
     <link href="https://joelc123.github.io/joelc123.github.io" />
-    <updated>2019-06-09T16:06:26+01:00</updated>
+    <updated>2019-06-09T16:24:48+01:00</updated>
     <author>
         <name>Joel Cockram</name>
     </author>
     <id>https://joelc123.github.io/joelc123.github.io</id>
 
+    <entry>
+        <title>We doin this now?</title>
+        <author>
+            <name>Joel Cockram</name>
+        </author>
+        <link href="https://joelc123.github.io/joelc123.github.io/we-doin-this-now.html"/>
+        <id>https://joelc123.github.io/joelc123.github.io/we-doin-this-now.html</id>
+
+        <updated>2019-06-09T16:16:36+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://joelc123.github.io/joelc123.github.io/media/posts/2/_65050398_medfr18819.jpg" alt="" />
+                    Looks like we in there now Site is live
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://joelc123.github.io/joelc123.github.io/media/posts/2/_65050398_medfr18819.jpg" alt="" />
+                <p id="mcetoc_1dcuctgjo0" class="msg--highlight">Looks like we in there now<br><br>Site is live</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test Post #1</title>
         <author>
