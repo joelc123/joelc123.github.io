@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Joels Work",
+    "description": "",
+    "home_page_url": "https://joelc123.github.io/joelc123.github.io",
+    "feed_url": "https://joelc123.github.io/joelc123.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Joel Cockram"
+    },
+    "items": [
+        {
+            "id": "https://joelc123.github.io/joelc123.github.io/test-post-1.html",
+            "url": "https://joelc123.github.io/joelc123.github.io/test-post-1.html",
+            "title": "Test Post #1",
+            "summary": "This is a test post yo!",
+            "content_html": "This is a test <strong>post</strong> yo!",
+            "image": "https://joelc123.github.io/joelc123.github.io/media/posts/1/sprint3.png",
+            "author": {
+                "name": "Joel Cockram"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-09T10:22:01+01:00",
+            "date_modified": "2019-06-09T10:29:17+01:00"
+        }
+    ]
+}

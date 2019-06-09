@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Joels Work</title>
+    <link href="https://joelc123.github.io/joelc123.github.io/feed.xml" rel="self" />
+    <link href="https://joelc123.github.io/joelc123.github.io" />
+    <updated>2019-06-09T16:04:17+01:00</updated>
+    <author>
+        <name>Joel Cockram</name>
+    </author>
+    <id>https://joelc123.github.io/joelc123.github.io</id>
+
+    <entry>
+        <title>Test Post #1</title>
+        <author>
+            <name>Joel Cockram</name>
+        </author>
+        <link href="https://joelc123.github.io/joelc123.github.io/test-post-1.html"/>
+        <id>https://joelc123.github.io/joelc123.github.io/test-post-1.html</id>
+
+        <updated>2019-06-09T10:29:17+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://joelc123.github.io/joelc123.github.io/media/posts/1/sprint3.png" alt="" />
+                    This is a test post yo!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://joelc123.github.io/joelc123.github.io/media/posts/1/sprint3.png" alt="" />
+                This is a test <strong>post</strong> yo!
+            ]]>
+        </content>
+    </entry>
+</feed>
